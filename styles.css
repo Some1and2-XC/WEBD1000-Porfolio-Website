@@ -1,0 +1,35 @@
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+section {
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+section#navbar {
+	background-color: #faebeb;
+	border-bottom: .5px solid black;
+}
+
+#navbar div {
+	height: 65px;
+	width: 95%;
+	margin: 0px;
+	margin-left: 2.5vmax;
+	padding: 0px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#navbar div a {
+	width: 50vmax;
+	color: black;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
