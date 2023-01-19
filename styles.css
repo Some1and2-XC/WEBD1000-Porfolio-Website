@@ -13,23 +13,26 @@ section {
 section#navbar {
 	background-color: #faebeb;
 	border-bottom: .5px solid black;
+	height: 65px;
 }
 
 #navbar div {
-	height: 65px;
 	width: 95%;
-	margin: 0px;
 	margin-left: 2.5vmax;
 	padding: 0px;
+	padding-top: 4px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 }
 
-#navbar div a {
+#navbar div div {
 	width: 50vmax;
+}
+
+#navbar div div a {
 	color: black;
 	text-transform: uppercase;
 	text-decoration: none;
-
+	font-family: 'Grenda', sans-serif;
 }
