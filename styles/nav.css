@@ -1,15 +1,4 @@
-
-body {
-	margin: 0px;
-	padding: 0px;
-}
-
-section {
-	width: 100%;
-	padding: 0px;
-	margin: 0px;
-}
-
+/*CSS Sheet for Navbar*/
 section#navbar {
 	background-color: #faebeb;
 	border-bottom: .5px solid black;
@@ -36,3 +25,4 @@ section#navbar {
 	text-decoration: none;
 	font-family: 'Grenda', sans-serif;
 }
+
