@@ -9,3 +9,14 @@ section {
 	padding: 0px;
 	margin: 0px;
 }
+
+section#header-section {
+	height: 50vh;
+	background-color: white;
+}
+
+section.center-align-content {
+	width: 100%;
+	padding-top: 5vmax;
+	text-align: center;
+}
