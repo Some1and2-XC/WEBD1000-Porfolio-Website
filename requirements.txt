@@ -1,0 +1,4 @@
+flask===2.2.2
+flask-login===0.6.2
+waitress===2.1.2
+argon2-cffi===21.3.0
